@@ -29,7 +29,7 @@ Each dealer typically uses a custom username/password to pass this file to Green
 The typical feed has the following fields (Bold are required, missing items should be blank but not excluded, the more the better):
 
 **Ord**|**Name**|**Example**|**Description**|
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 1|UsedNew |NEW/USED/N/Y | Whether user or new |
 2|Year |2013|Vehicle year |
 3|Make |Honda | Vehicle Make |
